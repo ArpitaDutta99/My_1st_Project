@@ -1,5 +1,4 @@
 # My_1st_Project
-This a Web page, Function handled By JS.
+This a Web page, For Addoption of Pets.
 
-# Simon_Game
-Memory Game
+
